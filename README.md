@@ -36,7 +36,8 @@ This project is a **2-page interactive Excel dashboard** built from scratch usin
 
 **[Elsayed Abdelhamed]**  
 Data Analyst | Excel | Power BI | Python | Sql
-📧 your.email@example.com  
+
+📧 eng.sayed2047@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
 🔗 [Portfolio Website](https://yourportfolio.com)
 

@@ -31,6 +31,14 @@ This project is a **2-page interactive Excel dashboard** built from scratch usin
 - **Weekdays** make up nearly **72%** of the total profit
 - **Australia & USA** together contribute over **60%** of the total profit
 
+## 📸 Dashboard Previews
+
+### Page 1: Product, Time & Transaction Analysis  
+![Dashboard Page 1](https://github.com/sayedsoliman0047/bike-store-sales-dashboard/blob/main/Dashboard-1.png)
+
+### Page 2: Customer & Regional Analysis 
+![Dashboard Page 2](https://github.com/sayedsoliman0047/bike-store-sales-dashboard/blob/main/Dashboard-2.png)
+
 
 ## 👨‍💻 Author
 

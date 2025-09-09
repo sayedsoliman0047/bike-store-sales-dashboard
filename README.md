@@ -2,8 +2,8 @@
 
 A professional Excel dashboard project that analyzes sales, profit, and customer behavior for a fictional bike store.
 
-![Dashboard Page 1](dashboard/screenshots/dashboard_page1.png)
-![Dashboard Page 2](dashboard/screenshots/dashboard_page2.png)
+![Dashboard Page 1](https://github.com/sayedsoliman0047/bike-store-sales-dashboard/blob/main/Dashboard-1.png)
+![Dashboard Page 2](https://github.com/sayedsoliman0047/bike-store-sales-dashboard/blob/main/Dashboard-2.png)
 
 ## 📌 Project Summary
 
@@ -32,20 +32,12 @@ This project is a **2-page interactive Excel dashboard** built from scratch usin
 - **Australia & USA** together contribute over **60%** of the total profit
 
 
-## 📸 Dashboard Previews
-
-### Page 1: Product, Customer & Regional Analysis  
-![Dashboard Page 1](dashboard/screenshots/dashboard_page1.png)
-
-### Page 2: Time & Transaction Analysis  
-![Dashboard Page 2](dashboard/screenshots/dashboard_page2.png)
-
 ## 👨‍💻 Author
 
-**[Your Name]**  
-Data Analyst | Excel | Power BI | Python  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+**[Elsayed Abdelhamed]**  
+Data Analyst | Excel | Power BI | Python | Sql
+📧 eng.sayed2047@gmail.com  
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/elsayed-soliman-0478b128a/))  
 🔗 [Portfolio Website](https://yourportfolio.com)
 
 

@@ -39,7 +39,6 @@ Data Analyst | Excel | Power BI | Python | Sql
 
 📧 eng.sayed2047@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/elsayed-soliman-0478b128a/)  
-🔗 [Portfolio Website](https://yourportfolio.com)
 
 ⚠️ **Important:** After downloading the `.xlsm` file, make sure to:
 
